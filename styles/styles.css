@@ -1,0 +1,117 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    width: 933px;
+    height: 166px;
+    margin-left: 289px;
+    margin-top: 1px;
+    padding-top: 111px;
+    font-weight: 700;
+    font-size: 140px;
+    line-height: 171px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    width: 580px;
+    height: 55px;
+    margin-left: 466px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+}
+
+img{
+    width: 1299px;
+    height: 743px;
+    margin-left: 106px;
+    padding-top: 62px;
+}
+h3{
+    
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    width: 765px;
+    height: 166px;
+    margin-left: 373px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    
+    margin-top: 20px;
+}
+
+
+p{
+    font-family: 'Raleway', sans-serif;
+    width: 967px;
+    height: 210px;
+    margin-left: 272px;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    line-height: 157.4%;
+}
+h4{
+    font-family: 'Raleway', sans-serif;
+    width: 241px;
+    height: 36px;
+    margin-left: 635px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 157.4%;
+    text-align: center;
+    
+}
+
+
+
+.iPhone-body{
+    background-image: url(../resources/iPhone_13.png);
+    width: 1261px;
+    height: 624.59px;
+    margin-left: 125px;
+    background-size: contain;
+    margin-top: 140px;
+    color: #FFFFFF;
+    text-align: center;
+    background-repeat: no-repeat;
+    
+     
+}
+h5{
+    
+    font-family: 'Raleway', sans-serif; 
+    width: 811px; 
+    height: 166px; 
+    padding-top: 91px;
+    font-weight: 700; 
+    font-size: 48px; 
+    padding-left: 225px;
+    
+    }
+h6{
+    font-family: 'Raleway', sans-serif;
+    height: 85px;
+    font-size: 36px;
+    line-height: 157.4%;
+    padding-top: 60px;
+    font-weight: 500;
+
+}
+
+.p1{
+    font-family: 'Raleway', sans-serif;
+    height: 88px;
+    font-size: 24px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 125%;
+    color: #7A7A7A;
+}
